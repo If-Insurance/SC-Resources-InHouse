@@ -1,0 +1,13 @@
+{
+	"type": "adaptive-image",
+	"automaticPromotion": true,
+	"trustedRepositories": [ "if-insurance/SC-Resources-InHouse"],
+	"adaptiveType": "moodboard",
+	"sizes": "300x0,660x0,661x0,980x0,1314x0,2042x0",
+	"focusPoint": {
+		"x": "50%",
+		"y": "80%"
+	},
+	"flags": [],
+	"previewComponents": ["moodboard", "crosslink", "banner"]
+}
